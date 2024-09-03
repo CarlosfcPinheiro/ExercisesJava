@@ -1,4 +1,4 @@
-public class App {
+public class Credentials {
     public static void main(String[] args){
         String rg = new String("1234-789");
         String name = new String("Afonso Berinaldo Silva");
